@@ -7,8 +7,8 @@ Les principales fonctionnalités sont donc:
   - Affichage d'un pie chart montrant la répartition du nombre de produits par catégorie.
 ## Cloner le repo
 ```sh
-$ git https://github.com/sindasalem/Test_Malou.git
-$ cd Test_Malou
+$ git clone https://github.com/sindasalem/ProductHunt_Project.git
+$ cd ProductHunt_Project
 ```
 ## Partie Backend
 * Technologie: [node.js]
